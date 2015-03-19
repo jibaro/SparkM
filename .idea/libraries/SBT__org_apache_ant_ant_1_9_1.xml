@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.ant:ant:1.9.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/ant/ant/1.9.1/ant-1.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
